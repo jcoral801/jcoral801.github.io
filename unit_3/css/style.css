@@ -1,18 +1,7 @@
 body {
   text-align: center;
-  .hero {
-  	/*sizing*/
-  	width:100vw;
-  	height:100vh;
-
-  	/*Background styles*/
-  	background-image: url(MyFace.jpg);
-  	background-size: cover;
-  	background-position: center center;
-  	background-repeat: no-repeat;
-  	background-attachment: fixed;
-  }
-  background-size: cover;
+  background: url("https://www.facebook.com/photo.php?fbid=10204852842999514&set=a.1274608883970&type=3&theater");
+  background-size: : cover;
   color: #fff;
   font-family: Helvetica;
 }
