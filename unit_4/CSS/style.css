@@ -1,0 +1,18 @@
+ @import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
+h1 {
+  text-align: center;
+  background: url("https://www.facebook.com/photo.php?fbid=10204852842999514&set=a.1274608883970&type=3&theater");
+  background-size: : cover;
+  color: #fff;
+  font-family: 'PT Serif'
+ 
+}
+h2{
+	font-family: 'Helvetica'
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
