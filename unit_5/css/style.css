@@ -1,0 +1,60 @@
+ @import url('https://fonts.googleapis.com/css?family=PT+Serif&display=swap');
+<body> {
+  text-align: center;
+  background: url(https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13177156_10204852842999514_2460185586364263824_n.jpg?_nc_cat=111&_nc_oc=AQlZbbXWwmUsruzULazTkl_-M-Nuk3nvVG70ysvFRSS11Y7bTdtGV5tf_JPCA5bY94AjG8gAHZcxzlEfgeN0_Ss4&_nc_ht=scontent-iad3-1.xx&oh=570b74e19d2b0c9e86522d0ec971b18a&oe=5E3B7B46);
+  background-size: cover;
+  color: #fff;
+  font-family: 'PT Serif'
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 1px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 1px;
+}
+
+div/section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 1px;
+}
+
+h1{
+	font-family: 'Helvetica'
+	font-size: 22px;
+}
+
+h2{
+	font-family: 'Helvetica'
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 15px;
+}
+</body>
