@@ -1,5 +1,9 @@
  
-
+#two_column{
+	background-color: white;
+	border: 1px black solid;
+	padding: 20px;
+}
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -8,11 +12,6 @@ header {
 
 nav {
 	background-color: #E8C66A;
-	border: 1px black solid;
-	padding: 20px;
-
-#two_column{
-	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 }
