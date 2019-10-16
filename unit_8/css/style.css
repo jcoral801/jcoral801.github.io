@@ -65,3 +65,25 @@ div/section {
 	padding: 1px;
 }
 
+@media only screen and (max-width: 800px) {
+
+	nav{
+		float:none;
+	}
+
+}
+
+@media only screen and (max-width: 480px) {
+	h1, nav{
+		display: block;
+		text-alighn: center;
+	}
+
+	nav a {
+		margin: 0 1em 1em;
+	}
+
+	img {
+		width: 300px;
+	}
+}
